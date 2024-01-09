@@ -93,7 +93,7 @@ function checkForm() {
     if (isValid) {
         alert("Cadastrado com sucesso")
     } else {
-        alert("Preencha todo so campos corretamente")
+        alert("Preencha todos o campos corretamente")
     }
 }
 
